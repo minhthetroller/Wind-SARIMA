@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.ipynb_checkpoints/
+
+# Dataset models (auto-generated cache, tiny)
+dataset/models/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Jupyter
+.jupyter/
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
